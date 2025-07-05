@@ -1,3 +1,6 @@
 runpod~=1.7.9
 websocket-client
 requests
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+filelock>=3.12.0
